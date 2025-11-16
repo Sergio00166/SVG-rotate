@@ -46,7 +46,3 @@ This rotates `logo.svg` by **90° clockwise** and saves it as `logo_rotated.svg`
 - Relative and absolute path commands (`M`, `L`, `C`, `Q`, `A`, etc.) are fully supported.  
 - Arc commands (`A`) have their endpoint rotated and their rotation adjusted properly.  
 
----
-
-## 📜 License
-Distributed under the GPL License. See LICENSE for details.
